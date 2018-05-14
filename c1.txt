@@ -1,0 +1,10 @@
+ El volumen de la unidad C es W7pro64
+ El n£mero de serie del volumen es: 2612-E14C
+
+ Directorio de C:\Users\DAW\Desktop\GitEjercicio1
+
+14/05/2018  19:50    <DIR>          .
+14/05/2018  19:50    <DIR>          ..
+14/05/2018  19:50                 0 c1.txt
+               1 archivos              0 bytes
+               2 dirs  175.432.249.344 bytes libres
